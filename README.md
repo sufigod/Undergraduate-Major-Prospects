@@ -60,7 +60,8 @@ It should look like this...
 ![Pivot Table & Data](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.29.41%20AM.png)
     
     9. Then go back to your degrees-that-pay-well tab, take note of the top 5 highest paying starting Median Salaries (screenshots help).
-    
+
+![Highest Paying](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.36.48%20AM.png)
     
     10. Go back to the pivot table tab.
     11. Go to “Filters” and click on the drop down menu to “Clear.”
@@ -69,7 +70,7 @@ It should look like this...
     
 It should then look like this…
 
-
+![Refined Pivot Table](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.36.54%20AM.png)
 
 
     13. Then go to Infogram to create a free account, as one of the options it should have a bar graph option. 
@@ -77,7 +78,7 @@ It should then look like this…
 
 This is what it should look like…
 
-
+![Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.36.59%20AM.png)
 
     14. Then go to the “edit data” tab…
     
@@ -88,12 +89,13 @@ This is what it should look like…
 
 It should look like this…
 
+![Refined Pivot Table](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.37.03%20AM.png)
 
     17. Then reorganize the data according to how you’d like to display it, here’s my own example. 
 
     
 
-Feel free to edit the graph in whatever way you choose! It's pretty straightforward so I didn't think I needed much information here. 
+ 
     
 
 
