@@ -11,13 +11,13 @@ Foreward:
   
   At the end I include information on a story pitch that uses the anaylsis shown throughout this markdown file. I also include 2 potential people to interview and 2 additional sources. 
 
-<h1>
-Organization:
-  
 <h3>
+ 
+  Organization:
   
-**Main Source of Information:**
-  The Excel Sheet Itself 
+<h4>
+  
+Main Source of Information: The Excel Sheet Itself 
   
   The 5 Questions I Ask of This Data Set:
   
@@ -28,10 +28,9 @@ Organization:
   5. What 5 majors have the highest mid-career 90th percentile salaries?
   
   
-
 <h2>
 
-1. What 5 majors have the highest starting median salaries?
+  1. What 5 majors have the highest starting median salaries?
   
   <h3>
 
@@ -47,7 +46,7 @@ Organization:
 
 ![Create Pivot Table](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.25.02%20AM.png)
     
-    This should then show up…
+This should then show up…
     
 ![Pivot Table Tempelate](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.27.40%20AM.png)
     
@@ -55,9 +54,46 @@ Organization:
     8. For “Values” drag and drop “Starting Median Salary.”
     
 
-    It should look like this...
+It should look like this...
 
 
-![Pivot Table & Data]()
+![Pivot Table & Data](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.29.41%20AM.png)
+    
+    9. Then go back to your degrees-that-pay-well tab, take note of the top 5 highest paying starting Median Salaries (screenshots help).
+    
+    
+    10. Go back to the pivot table tab.
+    11. Go to “Filters” and click on the drop down menu to “Clear.”
+    12. Then use the search bar to individually select each major.
+
+    
+It should then look like this…
+
+
+
+
+    13. Then go to Infogram to create a free account, as one of the options it should have a bar graph option. 
+
+
+This is what it should look like…
+
+
+
+    14. Then go to the “edit data” tab…
+    
+    15. Delete the existing data available...
+    
+    16. Copy and paste the information found in your pivot table.
+    
+
+It should look like this…
+
+
+    17. Then reorganize the data according to how you’d like to display it, here’s my own example. 
+
+    
+
+Feel free to edit the graph in whatever way you choose! It's pretty straightforward so I didn't think I needed much information here. 
+    
 
 
