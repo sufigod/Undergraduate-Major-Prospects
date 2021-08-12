@@ -27,6 +27,9 @@ Main Source of Information: The Excel Sheet Itself
   4. What 5 majors have the highest mid-career 75th percentile salaries?
   5. What 5 majors have the highest mid-career 90th percentile salaries?
   
+  Story Pitch 
+  
+  2 Key People & 2 Key Sources
   
 <h2>
 
@@ -93,7 +96,7 @@ It should look like this…
 
     17. Then reorganize the data according to how you’d like to display it, here’s my own example. 
 
-    
+![Finished Bar Graph] (https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
 
  
     
