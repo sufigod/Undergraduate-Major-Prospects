@@ -166,6 +166,13 @@ It should look like this…
 The outcome should look like this…
 
 ![Majors w/Largest diffs in Starting Salaries & Mid Career Salaries](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.56.39%20AM.png)
+     
+Here is the 
+     
+![Bar Chart - Biggest Difference](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.12.55%20AM.png)
+     
+https://infogram.com/largest-differences-1h7k230deqygg2x?live
+     
 
 
  <h2>
