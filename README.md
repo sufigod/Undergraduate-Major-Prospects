@@ -45,7 +45,7 @@ Organization:
     5. Then click “Data”, and click on “Pivot Table”
     6. Then when “Create pivot table” pops up, click Create.
 
-![Create Pivot Table](
+![Create Pivot Table](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.25.02%20AM.png)
     
     This should then show up…
     
