@@ -1,4 +1,8 @@
 
+<h1>
+UNDERGRADUATE MAJOR PROSPECTS - WILL IT PAY OFF?
+
+
 <h3>
 
 Foreword:
@@ -32,6 +36,11 @@ Foreword:
  * 2 Key People & 2 Key Sources
   
 <h2>
+  
+  The Excel Sheet from which the data was sourced:
+  
+  https://docs.google.com/spreadsheets/d/14ihWyW_ZdC8rYO0JfltuWhK_GOPZ2ltxD6VrL5NST68/edit?usp=sharing
+  
 
 1. What 5 majors have the highest starting median salaries?
   
@@ -194,11 +203,48 @@ The outcome should look like this…
 ![90th Percentile](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.27.40%20AM.png) 
      
      
-     <h2> 
+<h2> 
      Story Pitch & Key Sources
-       
-       <h3>
+
+  <h3>
          
-         For the story pitch, I'd like to use the data analysis gathered above to understand how 
+From the data gathered above, it seems as if certain majors, particularly within the STEM field are having higher salaries when entering the workforce. Then when majors are mid career, top salary earners based solely on undergraduate majors changes. Lastly, when the 90th Percentile comes into play, we see another shift in majors listed.
+    
+For the story pitch, I'd like to use the data analysis gathered above to understand how and why certain majors have higher starting salaries compared to others? Is it because of demand? Lastly, What kind of jobs do the top earners in the 90th percentile persue as a career?
+    
+Most specifically, which majors the have short term benefits in terms of pay and which have the largest in the long term?
+         
+I believe one of the toughest decisions a young adult makes is in relation to the major they choose, understanding not only their salary prospects, but also where their undergrad might be able to lead them in the long run.
+         
+<h2>
+    
+Sources (People)
+
+<h3>     
+Jeremy Brooks 
+Counseling 
+UC Berkeley 
+(510) 642-1716
+    
+Could redirect me to some sources in terms of prospects of certain majors (a.k.a. what you can do with an engineering undergrad).
      
      
+Alicia Mandac 
+Counseling 
+UC Berkeley 
+https://www.econ.berkeley.edu/undergrad/home/advising
+    
+Is specifically linked to the economics department and could give info as to what fields or jobs economic undergrads eventually go into down the line.
+    
+<h2>    
+Sources (Documents)   
+
+<h3>  
+ 
+https://www.kgi.edu/news/what-can-you-do-with-a-chemical-engineering-degree/
+    
+Some background info on chemical engineering degrees and what you can do with them.
+    
+https://careers.yorku.ca/my-degree/computer-engineering 
+    
+Computer Engineering and the prospects for future jobs or careers.
