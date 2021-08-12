@@ -36,18 +36,20 @@ Organization:
   <h3>
 
     1. Start in the degrees-that-pay-well tab
-    2. With a cursor go to the top of the column with the title “Starting Median Salary” and   right click.
+    2. With a cursor go to the top of the column with the title “Starting Median Salary” and right click.
     3. Select “Sort sheet Z → A”
     4. In order to organize and display it in a pivot table, select the top bar in the very corner.
     
-    ![Excel Top Corner Screenshot]( https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.05.29%20AM.png )
+![Excel Top Corner Screenshot](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.05.29%20AM.png)
     
     5. Then click “Data”, and click on “Pivot Table”
     6. Then when “Create pivot table” pops up, click Create.
-    
+
+![Create Pivot Table](
     
     This should then show up…
     
+![Create Pivot Table](
     
     7. For “Filters” drag and drop “Undergraduate Major.”
     8. For “Values” drag and drop “Starting Median Salary.”
