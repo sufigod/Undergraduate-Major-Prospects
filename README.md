@@ -40,7 +40,7 @@ Organization:
     3. Select “Sort sheet Z → A”
     4. In order to organize and display it in a pivot table, select the top bar in the very corner.
     
-    ![Excel Top Corner Screenshot](Screen Shot 2021-08-12 at 6.05.29 AM.png)
+    ![Excel Top Corner Screenshot]( https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.05.29%20AM.png )
     
     5. Then click “Data”, and click on “Pivot Table”
     6. Then when “Create pivot table” pops up, click Create.
