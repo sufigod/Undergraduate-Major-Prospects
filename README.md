@@ -98,7 +98,27 @@ It should look like this…
 
 ![Finished Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
 
- 
+
+   
+    2. What 5 majors have the lowest starting salaries?
     
+    
+    1.Start in the degrees-that-pay-well tab
+    2. With a cursor go to the top of the column with the title “Percent change from Starting to Mid-Career Salary” and right click.
+    3. Select “Sort sheet Z → A”
+    4. In order to organize and display it in a pivot table, select the top bar in the very corner.
+    5. Then click “Data”, and click on “Pivot Table”
+    6. Then when “Create pivot table” pops up, click Create.
+    7. For “Filters” drag and drop “Undergraduate Major.”
+    8. For “Values” drag and drop “Percent change from Starting to Mid-Career Salary”
+    9. Then go back to your degrees-that-pay-well tab, take note of the 5 majors that are at the top of your sorted list, these are the highest Percent changes from Starting to Mid-Career Salaries (screenshots help for reference).
+    10. Go back to the pivot table tab.
+    11. Go to “Filters” and click on the drop down menu to “Clear.”
+    12. Then use the search bar to individually select each major previously noted.
+
+The outcome should look like this…
+
+
+
 
 
