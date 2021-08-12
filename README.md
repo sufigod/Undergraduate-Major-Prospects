@@ -33,7 +33,7 @@ Main Source of Information: The Excel Sheet Itself
   
 <h2>
 
-  1. What 5 majors have the highest starting median salaries?
+1. What 5 majors have the highest starting median salaries?
   
   <h3>
 
@@ -100,7 +100,7 @@ It should look like this…
 
 
    
-    2. What 5 majors have the lowest starting salaries?
+3. What 5 majors have the largest differences in starting salaries and mid career salaries?
     
     
     1.Start in the degrees-that-pay-well tab
@@ -111,7 +111,8 @@ It should look like this…
     6. Then when “Create pivot table” pops up, click Create.
     7. For “Filters” drag and drop “Undergraduate Major.”
     8. For “Values” drag and drop “Percent change from Starting to Mid-Career Salary”
-    9. Then go back to your degrees-that-pay-well tab, take note of the 5 majors that are at the top of your sorted list, these are the highest Percent changes from Starting to Mid-Career Salaries (screenshots help for reference).
+    9. Then go back to your degrees-that-pay-well tab, take note of the 5 majors that are at the top of your sorted list, 
+    these are the highest Percent changes from Starting to Mid-Career Salaries (screenshots help for reference).
     10. Go back to the pivot table tab.
     11. Go to “Filters” and click on the drop down menu to “Clear.”
     12. Then use the search bar to individually select each major previously noted.
