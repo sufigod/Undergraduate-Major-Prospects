@@ -96,7 +96,7 @@ It should look like this…
 
     17. Then reorganize the data according to how you’d like to display it, here’s my own example. 
 
-![Finished Bar Graph] (https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
+![Finished Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
 
  
     
