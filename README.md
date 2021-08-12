@@ -172,7 +172,7 @@ The outcome should look like this…
      
 Here is the Corresponding Bar Chart.
      
-![Bar Chart - Biggest Difference](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.24.06%20AM.png)
+![Bar Chart - Biggest Difference](https://github.com/sufigod/Undergraduate-Major-Prospects/blob/main/Screen%20Shot%202021-08-12%20at%206.37.04%20AM.png)
      
 https://infogram.com/largest-differences-1h7k230deqygg2x?live
      
