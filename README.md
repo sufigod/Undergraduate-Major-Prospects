@@ -116,7 +116,7 @@ It should look like this…
 
     17. Then reorganize the data according to how you’d like to display it, here’s my own example. 
 
-![Finished Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
+![Finished Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.40.09%20AM.png)
 
     https://infogram.com/bar-chart-1hxr4zxmk555o6y?live
     
@@ -144,7 +144,7 @@ It should look like this…
 
 ![Majors w/Lowest Starting Median Salary](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.12.55%20AM.png)
         
-![Bar Graph - Lowest Starting Salary](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.39.37%20AM.png)
+![Bar Graph - Lowest Starting Salary](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.43.03%20AM.png)
         
 https://infogram.com/lowest-starting-median-salaries-1hzj4o3j08p9o4p?live
         
