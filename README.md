@@ -11,7 +11,7 @@ Foreword:
   
   I wanted to use to combine the use of images and detailed text in answering the first question to help newbies to Excel and Pivot Tables to recreate my steps. Image use increased accesibility those who use work best visually. 
    
-  Questions 2 through 4 offer more streamline descriptions to how I solved for the question since it's the process is almost identical to the first questions, ommiting some key phrases. 
+  Questions 2 through 4 offer more streamline descriptions to how I solved for the question since it's the process is almost identical to the first question, but without images. This might be more helpful for those using this information as a quick reference. 
   
   At the end I include information on a story pitch that uses the anaylsis shown throughout this markdown file. I also include 2 potential people to interview and 2 additional sources. 
 
@@ -36,13 +36,24 @@ Foreword:
  * 2 Key People & 2 Key Sources
   
 <h2>
-  
+Main Source of Information: The Excel Sheet Itself
+
+<h4>  
   The Excel Sheet from which the data was sourced:
-  
   https://docs.google.com/spreadsheets/d/14ihWyW_ZdC8rYO0JfltuWhK_GOPZ2ltxD6VrL5NST68/edit?usp=sharing
   
 
-1. What 5 majors have the highest starting median salaries?
+<h2>
+The 5 Questions I Ask of This Data Set:
+ 
+<h4> 
+ 
+ The answer to the following question might be more visually helpful to those are using this for technicaility purposes, are just about to start with pivot tables, or like to learn through visual means (I, myself, am one of those people).
+  
+<h2>  
+  
+
+  1. What 5 majors have the highest starting median salaries?
   
   <h3>
 
