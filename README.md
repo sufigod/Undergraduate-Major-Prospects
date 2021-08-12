@@ -98,6 +98,9 @@ It should look like this…
 
 ![Finished Bar Graph](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.53.14%20AM.png)
 
+    https://infogram.com/bar-chart-1hxr4zxmk555o6y?live
+    
+    
   <h2> 
     
    2. What 5 majors have the lowest starting salaries?  
@@ -124,7 +127,7 @@ It should look like this…
 
    3. What 5 majors have the largest differences in starting salaries and mid career salaries?
     
-   <h4> 
+   <h3> 
      
     1. Start in the degrees-that-pay-well tab
     2. With a cursor go to the top of the column with the title “Percent change from Starting to Mid-Career Salary” and right click.
@@ -162,8 +165,9 @@ The outcome should look like this…
     11. Go to “Filters” and click on the drop down menu to “Clear.”
     12. Then use the search bar to individually select each major previously noted.
 
-     <h4>
+
 The outcome should look like this…
+     
 ![75th Percentile](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.24.59%20AM.png) 
      
  <h2>
@@ -184,8 +188,17 @@ The outcome should look like this…
     11. Go to “Filters” and click on the drop down menu to “Clear.”
     12. Then use the search bar to individually select each major previously noted.
      
-<h4>
+
 The outcome should look like this…
      
 ![90th Percentile](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.27.40%20AM.png) 
+     
+     
+     <h2> 
+     Story Pitch & Key Sources
+       
+       <h3>
+         
+         For the story pitch, I'd like to use the data analysis gathered above to understand how 
+     
      
