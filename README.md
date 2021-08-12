@@ -49,7 +49,7 @@ Organization:
     
     This should then show up…
     
-![Create Pivot Table](
+![Pivot Table Tempelate](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.27.40%20AM.png)
     
     7. For “Filters” drag and drop “Undergraduate Major.”
     8. For “Values” drag and drop “Starting Median Salary.”
@@ -58,6 +58,6 @@ Organization:
     It should look like this...
 
 
-
+![Pivot Table & Data]()
 
 
