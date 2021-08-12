@@ -1,6 +1,6 @@
 
 <h1>
-UNDERGRADUATE MAJOR PROSPECTS - WILL IT PAY OFF?
+UNDERGRADUATE MAJOR PROSPECTS
 
 
 <h3>
@@ -144,7 +144,10 @@ It should look like this…
 
 ![Majors w/Lowest Starting Median Salary](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.12.55%20AM.png)
         
-
+![Bar Graph - Lowest Starting Salary](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.39.37%20AM.png)
+        
+https://infogram.com/lowest-starting-median-salaries-1hzj4o3j08p9o4p?live
+        
    3. What 5 majors have the largest differences in starting salaries and mid career salaries?
     
    <h3> 
@@ -167,9 +170,9 @@ The outcome should look like this…
 
 ![Majors w/Largest diffs in Starting Salaries & Mid Career Salaries](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%206.56.39%20AM.png)
      
-Here is the 
+Here is the Corresponding Bar Chart.
      
-![Bar Chart - Biggest Difference](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.12.55%20AM.png)
+![Bar Chart - Biggest Difference](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.24.06%20AM.png)
      
 https://infogram.com/largest-differences-1h7k230deqygg2x?live
      
@@ -197,6 +200,10 @@ The outcome should look like this…
      
 ![75th Percentile](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.24.59%20AM.png) 
      
+![75th Percentile Bar Chart](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.20.42%20AM.png) 
+     
+https://infogram.com/75th-percentile-1h7g6k09ln1302o?live
+     
  <h2>
    5. What 5 majors have the highest mid-career 90th percentile salaries?
    <h3>
@@ -220,6 +227,13 @@ The outcome should look like this…
      
 ![90th Percentile](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%207.27.40%20AM.png) 
      
+     
+This is the bar chart.
+
+![90th Percentile Bar Chart](https://raw.githubusercontent.com/sufigod/Undergraduate-Major-Prospects/main/Screen%20Shot%202021-08-12%20at%209.59.42%20AM.png)
+
+     
+https://infogram.com/90th-percentile-1ho16vog7j11x4n?live
      
 <h2> 
      Story Pitch & Key Sources
